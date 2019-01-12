@@ -1,0 +1,23 @@
+{
+  "name": "EventLoop",
+  "version": "1.0.0",
+  "description": "In this repository, I have 4 files laid out to display different examples of what/how the NodeEventLoop works.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austinloveless/NodeEventLoop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austinloveless/NodeEventLoop/issues"
+  },
+  "homepage": "https://github.com/austinloveless/NodeEventLoop#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
